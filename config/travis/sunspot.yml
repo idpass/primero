@@ -5,3 +5,4 @@ test:
     log_level: INFO
     pid_dir: tmp/pids
     path: /solr/test
+    solr_home: solr
